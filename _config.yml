@@ -1,10 +1,10 @@
 # Site
 name: 'itoy.xyz'
 description: 'A great collection of excellent toys from China.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/toy-icon.png'
+favicon: 'assets/images/toy-icon.png'
 baseurl: '/'
-avatar: 'assets/images/sal.jpg'
+avatar: 'assets/images/toy-icon.png'
 disqus: ''
 email: 'sanpiekankan@gmail.com'
 
